@@ -1,5 +1,7 @@
 # DozHafıza
 
+[![CI](https://github.com/cantsdlnn/doz-hafiza/actions/workflows/ci.yml/badge.svg)](https://github.com/cantsdlnn/doz-hafiza/actions/workflows/ci.yml)
+
 İlaç planını ve günlük “aldım / atladım” kaydını sunucuya sağlık verisi göndermeden, yalnızca kullanıcının cihazında tutan çevrimdışı PWA.
 
 > Bu yazılım tıbbi karar veya doz önerisi üretmez. Kullanıcı yalnızca sağlık profesyonelinden aldığı planı kaydeder.
