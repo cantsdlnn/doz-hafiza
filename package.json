@@ -1,0 +1,20 @@
+{
+  "name": "doz-hafiza",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "format:check": "prettier --check .",
+    "test": "vitest run --coverage",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@vitest/coverage-v8": "^5.0.2",
+    "prettier": "^3.9.9",
+    "typescript": "^5.9.2",
+    "vite": "^7.1.7",
+    "vitest": "^5.0.2"
+  }
+}
